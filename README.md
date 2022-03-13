@@ -1,3 +1,0 @@
-- 👋 Hi, I’m @01Najib01.
-- 👀 I’m interested in Android Application Programming.
-- 🌱 I am learning Android Programming with Java Programming Language.
